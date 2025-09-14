@@ -9,5 +9,5 @@ multiplication = number1 * number2
 
 # Print results in human-readable format
 print("Addition of", number1, "and", number2, "is", addition)
-print("Subtraction of", number1, "and", number2, "is" subtraction)
-print("Multiplication of", number1, "and", number2, "is" multiplication)
+print("Subtraction of", number1, "and", number2, "is", subtraction)
+print("Multiplication of", number1, "and", number2, "is", multiplication)
